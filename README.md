@@ -17,4 +17,4 @@ The Journey Save Editor is designed to make editing the save file easy and fast,
 - R to reload save
 - Click on a player name in the companion list to copy their profile link
 
-This project was made in Unity. [[Development Files]](https://github.com/zackmichaels5/Journey-Save-Editor)
+This project was made in Unity. [[Development Files]](https://github.com/Eli-Par/Journey-Save-Editor)
